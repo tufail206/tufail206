@@ -1,4 +1,3 @@
-make it more profesional for github it will show on my profile so please 
 <h1 align="center">Hi 👋, I'm Tufail Abbas</h1>
 <h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
 
